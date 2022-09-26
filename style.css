@@ -17,8 +17,8 @@ p + p {padding-top: 15px;}
 
 /* callout */
 .callout {margin-top: 50px;}
-.callout i {font-family: 'Gordita-BoldItalic', Helvetica, Arial, Sans-Serif; font-weight: bold; font-style: italic;}
-#learnmore-expand i {font-family: 'Gordita-RegularItalic', Helvetica, Arial, Sans-Serif; font-weight: normal; font-style: italic;}
+.callout i {font-weight: bold; font-style: italic;}
+#learnmore-expand i {font-weight: normal; font-style: italic;}
 
 /***** bug: margin-top slides down lag *****/
 
