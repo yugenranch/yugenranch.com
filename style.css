@@ -28,6 +28,7 @@ p + p {padding-top: 15px;}
 .content-home h2 {padding-bottom: 20px;}
 .content-home + .content-home {margin-top: 150px;}
 .bio p {font-size: 0.875rem;}
+#home h2 {margin-top: 200px; margin-bottom: 200px;}
 
 /* action */
 .action {margin-top: 50px;}
