@@ -63,6 +63,7 @@ p + p {padding-top: 15px;}
 .overlay-content a:hover {opacity: 1; transition: opacity 0.2s ease-in 0.1s;}
 /* .overlay .closebtn {position: absolute; top: 20px; right: 45px; font-size: 60px;} */
 .inline-link a {margin-top: 0;}
+a, a:hover, a:visited {color: black;}
 
 /* footer */
 #footer-desktop {display: block;}
