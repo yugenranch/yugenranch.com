@@ -11,7 +11,7 @@ body {direction: ltr !important;}
 
 /* header hero */
 header {height: 100vh; padding-top: 40px; box-sizing: border-box; background-position: center; background-repeat: no-repeat; background-size: cover; border: 0; color: white;}
-#header-home {background-image: url('/img/hero.png');}
+#header-home {background-image: url('img/hero.png');}
 header p {padding-top: 20px;}
 p + p {padding-top: 15px;}
 
@@ -23,10 +23,10 @@ p + p {padding-top: 15px;}
 /***** bug: margin-top slides down lag *****/
 
 /* content */
-.content-home img, .content-solutions img, .content-whoweare img, .content-product img {width: 100%;}
-.content-home, .content-solutions, .content-whoweare, .content-product, .content-joinus, .content-contact {margin-top: 50px;}
+.content-home img {width: 100%;}
+.content-home  {margin-top: 50px;}
 .content-home h2 {padding-top: 150px; padding-bottom: 20px;}
-.content-home + .content-home, .content-solutions + .content-solutions, .content-product + .content-product {margin-top: 150px;}
+.content-home + .content-home {margin-top: 150px;}
 .bio p {font-size: 0.875rem;}
 
 /* action */
